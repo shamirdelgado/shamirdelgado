@@ -1,16 +1,18 @@
-## Hi there 👋
+### ¡Hola! Soy Shamir 👋
 
-<!--
-**shamirdelgado/shamirdelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas en Universidad Latina de Costa Rica  
+💼 Experiencia previa en logística, procesos aduaneros y sistemas administrativos  
+🌱 Aprendiendo desarrollo web y C# — construyendo mi camino hacia el desarrollo de software  
+🎯 Meta a largo plazo: crecer profesionalmente en tecnología, con miras a estudiar/trabajar en Canadá  
 
-Here are some ideas to get you started:
+#### Stack actual
+- HTML, CSS, JavaScript (fundamentos, retomando y fortaleciendo)
+- C# / .NET (Windows Forms, colecciones, POO)
+- Herramientas: Git, Office 365 avanzado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacto
+📧 shamiruzziel27@gmail.com  
+📍 San José, Costa Rica
+
+---
+*Este perfil está en construcción — voy subiendo proyectos a medida que avanzo en la carrera.*
