@@ -11,7 +11,7 @@
 - Herramientas: Git, Office 365 avanzado
 
 #### Contacto
-📧 shamiruzziel27@gmail.com  
+📧 uzziellanuza@gmail.com 
 📍 San José, Costa Rica
 
 ---
