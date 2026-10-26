@@ -2,8 +2,7 @@
 
 Desarrollador full-stack junior en Costa Rica 🇨🇷, estudiante de Ingeniería en Sistemas en la
 Universidad Latina. Construyo productos web completos, de la base de datos a la interfaz en 3D: diseño la
-arquitectura, escribo y reviso el código, y uso IA donde de verdad acelera el trabajo. Busco trabajo **remoto** en desarrollo o en
-IA aplicada.
+arquitectura, escribo y reviso el código, y uso IA donde de verdad acelera el trabajo.
 
 #### Proyecto destacado: [Pokiot](https://pokiot.vercel.app)
 Rastreador digital de cartas Pokémon con una experiencia inmersiva:
